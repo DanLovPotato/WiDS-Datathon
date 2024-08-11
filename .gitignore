@@ -1,0 +1,25 @@
+datathon_venv/*
+data/*
+external/*
+playground.ipynb
+*.csv
+aqi.ipynb
+*.xml
+# *.ipynb
+# *.ipynb
+*.iml
+aqi.ipynb
+logs.log
+z_scribbles.py
+__pycache__/*
+__pycache__/*
+logs.log
+z_scribbles.py
+aqi.ipynb
+__pycache__/*
+logs.log
+z_scribbles.py
+catboost_info/*
+notebook_exports/*
+outputs/*
+src/__pycache__/*
